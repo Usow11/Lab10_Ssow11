@@ -1,0 +1,5 @@
+Account Number: 5423678409
+
+Current Balance: $215.25
+
+Daily Interest Rate: 0.05
